@@ -1,4 +1,4 @@
-This directory contains Cacti templates for using the SNMP data made available from the Aquaero 5 via Aquaeronix and snmp_persist_aquaero5.pl
+This directory contains Cacti templates for using the SNMP data made available from the Aquaero 5 via aerotools-ng and snmp_persist_aquaero5.pl
 
 
 Installation Instructions
